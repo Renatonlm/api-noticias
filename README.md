@@ -1,4 +1,4 @@
-Uso:
+# Uso:
 
 # Buscar noticia:
 * Tipo: GET
@@ -24,3 +24,5 @@ Uso:
 * Params:  id(obrigatório, string)
 * Exemplo:  _{id: ”02919382bc9174ba”}_
 * Resposta: id da noticia deletada
+
+# Banco de dados em cloud.mongodb.com
