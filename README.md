@@ -1,5 +1,6 @@
-# Uso:
+# Banco de dados em cloud.mongodb.com
 
+## Uso:
 # Buscar noticia:
 * Tipo: GET
 * URL: /search
@@ -25,4 +26,4 @@
 * Exemplo:  _{id: ”02919382bc9174ba”}_
 * Resposta: id da noticia deletada
 
-# Banco de dados em cloud.mongodb.com
+
